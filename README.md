@@ -1,5 +1,5 @@
 # Introduction to Python Programming
-##An introductory course on Python. 
+## An introductory course on Python. 
 
 The course covers the following topics
 * Introduction to Python including installation
@@ -18,3 +18,4 @@ python --version
 Python 3.10.8
 ~~~
 
+The repository contains code, data, and project details. 
