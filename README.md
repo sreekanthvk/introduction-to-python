@@ -2,7 +2,7 @@
 ## An introductory course on Python. 
 
 The course covers the following topics
-* Introduction to Python including installation
+*[ Introduction to Python including installation](https://github.com/sreekanthvk/Introduction-to-Python/blob/0daca4cbf22c4ae0a5920cb9a683c29a5d55346f/introduction.md)
 * Variables and Data types
 * Data structures
 * Control Structures
