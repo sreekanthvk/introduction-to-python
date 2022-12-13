@@ -8,4 +8,6 @@
 
 ### [Python Documentation](https://docs.python.org/3/)
 
-### [Anaconda](https://www.anaconda.com/library) 
+### [Anaconda](https://www.anaconda.com/products/distribution)
+
+### [Anaconda Library](https://www.anaconda.com/library) 
