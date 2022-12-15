@@ -15,10 +15,10 @@ print(hello+ ' ' + world)
 
 # this code prints the output within quotes.
 # print WithQuotes within single quotes
-print("'WithQuotes'")
+print("'With Single Quotes'")
 print("Hello 'Python'")
   
-# print WithQuotes within single quotes
-print('"WithQuotes"')
+# print WithQuotes within double quotes
+print('"With Double Quotes"')
 print('Hello "Python"')
 
