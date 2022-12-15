@@ -13,3 +13,5 @@
 ### [Anaconda Library](https://www.anaconda.com/library) 
 
 ### [Coding Standards](https://docs.ckan.org/en/ckan-2.1.5/python-coding-standards.html)
+
+### [W3 Schools - Python](https://www.w3schools.com/python/python_intro.asp)
