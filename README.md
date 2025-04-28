@@ -1,3 +1,10 @@
+Python Laboratory
+===================
+
+This is a place for experimentation in Python, learning Python, and creating scalable projects. 
+I am yet to formalize the structure. 
+
+
 # Introduction to Python Programming
 ## An introductory course on Python. 
 
